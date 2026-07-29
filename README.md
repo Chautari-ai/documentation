@@ -2176,9 +2176,9 @@ Whether you're a student, developer, researcher, or simply curious, Chautari wel
 📧 business@chautari.com
 
 ### Social Media
+Ⓕ Facebook https://www.facebook.com/share/18F2vdcyxf/
 🐦 Twitter/X: @ChautariAI
 💬 Discord: https://discord.gg/chautari
-📺 YouTube: Chautari AI
 
 ### Development
 🔗 GitHub: https://github.com/Chautari-ai
