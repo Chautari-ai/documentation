@@ -8,7 +8,7 @@
 
 ### What is Chautari AI?
 
-Chautari AI is a revolutionary, **completely free** conversational artificial intelligence platform designed to democratize access to advanced technology. The name "Chautari" originates from the Nepali language, meaning a traditional communal gathering place or rest stop where people from all walks of life come together to exchange stories, share knowledge, discuss ideas, and learn from one another. True to this beautiful concept, Chautari AI serves as a digital chautari—a welcoming space where anyone, anywhere, can engage in meaningful conversations, solve complex problems, write and understand code, explore mathematical concepts, generate new ideas, and acquire new skills—all without any hidden charges, subscription fees, or paywalls.
+Chautari AI is "LLm" Large Language Model artificial intelligence a revolutionary, **completely free** conversational artificial intelligence platform designed to democratize access to advanced technology. The name "Chautari" originates from the Nepali language, meaning a traditional communal gathering place or rest stop where people from all walks of life come together to exchange stories, share knowledge, discuss ideas, and learn from one another. True to this beautiful concept, Chautari AI serves as a digital chautari—a welcoming space where anyone, anywhere, can engage in meaningful conversations, solve complex problems, write and understand code, explore mathematical concepts, generate new ideas, and acquire new skills—all without any hidden charges, subscription fees, or paywalls.
 
 ### The Philosophy Behind Chautari
 
